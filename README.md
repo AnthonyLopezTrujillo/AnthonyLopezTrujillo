@@ -3,13 +3,13 @@
 
 </div>
 <h4 align="center">
-  <b><a href="https://ossinsight.io/explore/">Systems Engineering</a></b>
+  <b><a href="">Systems Engineering</a></b>
   •
-  <b><a href="https://ossinsight.io/collections/open-source-database">Ingenieria de Sistemas</a></b>
+  <b><a href="">Ingenieria de Sistemas</a></b>
   •
-  <b><a href="https://ossinsight.io/analyze/Ovilia">Data Analytics</a></b>
+  <b><a href="">Data Analytics</a></b>
   •
-  <a href="https://ossinsight.io/analyze/pingcap/tidb">Data Engineer</a>
+  <a href="">Data Engineer</a>
   •
   <a href="https://www.linkedin.com/in/anthony-lopez-trujillo/">LinkedIn</a>
 </h3>
