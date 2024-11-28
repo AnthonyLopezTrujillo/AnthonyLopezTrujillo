@@ -3,23 +3,15 @@
 
 </div>
 <h4 align="center">
-  <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
+  <b><a href="https://ossinsight.io/explore/">Systems Engineering</a></b>
   •
-  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
+  <b><a href="https://ossinsight.io/collections/open-source-database">Ingenieria de Sistemas</a></b>
   •
-  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
+  <b><a href="https://ossinsight.io/analyze/Ovilia">Data Analytics</a></b>
   •
-  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
+  <a href="https://ossinsight.io/analyze/pingcap/tidb">Data Engineer</a>
   •
-  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
-  •
-  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
-  •
-  <a href="https://ossinsight.io/blog">Blog</a>
-  •
-  <a href="https://ossinsight.io/docs">API</a>
-  •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
+  <a href="https://www.linkedin.com/in/anthony-lopez-trujillo/">LinkedIn</a>
 </h3>
 
   
